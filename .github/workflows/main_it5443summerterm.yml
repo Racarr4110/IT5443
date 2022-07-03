@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'IT5443SummerTerm'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B63EF7F1DF1401A9B330413774C8EEE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_209636E4448F426FB9F3FD8CF34DA0C6 }}
           package: .
